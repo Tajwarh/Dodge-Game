@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dakrqgv7d58fd"
+path="res://.godot/imported/free-background-music-no-copyright-safe-for-monetization-406804 (1).mp3-ed1dad0f8646b2d6fd47e9b8772abf66.mp3str"
+
+[deps]
+
+source_file="res://art/free-background-music-no-copyright-safe-for-monetization-406804 (1).mp3"
+dest_files=["res://.godot/imported/free-background-music-no-copyright-safe-for-monetization-406804 (1).mp3-ed1dad0f8646b2d6fd47e9b8772abf66.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
